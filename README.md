@@ -9,5 +9,5 @@ Color scheme: https://draculatheme.com
 ## How to install?
 
 1. Download a Dracula.json
-2. Open Settings>>Theme>>Load preset
+2. Open Settings >> Theme >> Load preset
 3. And choose Dracula.json
